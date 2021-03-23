@@ -1,0 +1,10 @@
+.covidinfo-div{
+    margin-top: 20px;
+   
+}  
+.d-flex{
+    width: 100vw;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: left;
+}
